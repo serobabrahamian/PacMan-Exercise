@@ -18,3 +18,5 @@ In order to run the project, please follow the following steps:
 
 ## Licensing
 Created by Serob Abrahamian
+
+<img src="pacman1.png" width-'350/>
