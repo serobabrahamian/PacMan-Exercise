@@ -23,4 +23,4 @@ In order to improve this project, in the future we can write code where each Pac
 ## Licensing
 Created by Serob Abrahamian
 
-<img src= "PacMan1.png" width='250'/>
+<img src= "images/PacMan1.png" width='250'/>
