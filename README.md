@@ -16,6 +16,10 @@ In order to run the project, please follow the following steps:
 
 4 - Click Start Game for PacMen do move
 
+## Roadmap of Future Improvements
+
+In order to improve this project, in the future we can write code where each PacMan eats the other PacMan that it crosses paths with and they get larger and larger until only one very large one remains.
+
 ## Licensing
 Created by Serob Abrahamian
 
