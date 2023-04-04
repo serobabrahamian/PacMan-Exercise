@@ -19,4 +19,4 @@ In order to run the project, please follow the following steps:
 ## Licensing
 Created by Serob Abrahamian
 
-<img src= "PacMan1.png" width='350'/>
+<img src= "PacMan1.png" width='250'/>
