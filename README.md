@@ -15,3 +15,6 @@ In order to run the project, please follow the following steps:
 3 - Click Add Pacman as needed
 
 4 - Click Start Game for PacMen do move
+
+--Licensing
+Created by Serob Abrahamian
