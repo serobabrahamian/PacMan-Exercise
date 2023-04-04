@@ -16,5 +16,5 @@ In order to run the project, please follow the following steps:
 
 4 - Click Start Game for PacMen do move
 
-#Licensing
+# Licensing
 Created by Serob Abrahamian
